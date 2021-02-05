@@ -1,0 +1,39 @@
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Build output
+out/
+build/
+bin/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+!lib/*.jar  # Keep lib jars
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated student cards
+*.png
+!UMAB_LOGO.png
+!student\ id.png
+
+# Student data
+BDD.ETD
+
+# Build configuration
+build.xml
+manifest.mf
