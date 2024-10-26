@@ -1,4 +1,4 @@
-# Student Card Management System (Legacy Code - 2021)
+# Student Card Management System [IHM Module] (Legacy Code - 2021)
 
 This is one of my first Java projects from when I was learning to code. The application manages student ID cards for a university, allowing creation, modification, and printing of student cards.
 
@@ -47,4 +47,4 @@ If you really want to run this (at your own risk):
 3. Run Main.java
 
 ## License
-Feel free to use this code however you want, but I recommen
+Feel free to use this code however you want, but I recommend not using it as an example of good practices.
